@@ -25,7 +25,7 @@
 			</nav>
 			<svelte:fragment slot="trail">
 				<LightSwitch/>
-				<iconify-icon icon="healthicons:ui-user-profile-outline" width="50" height="50" class="cursor-pointer hover:scale-105 hover:opacity-60 transition-all"></iconify-icon>
+				<a href="/dashboard"><iconify-icon icon="healthicons:ui-user-profile-outline" width="50" height="50" class="cursor-pointer hover:scale-105 hover:opacity-60 transition-all"/></a>
 			</svelte:fragment>
 		</AppBar>
 	</svelte:fragment>

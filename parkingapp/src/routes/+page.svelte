@@ -38,7 +38,7 @@
 			Tìm kiếm và đặt chỗ gửi phương tiện cá nhân trực tuyến tại trường chỉ với vài nút nhấn.
 		</p>
 		<div class="flex pt-8">
-			<a href="#" class="text-white bg-blue-700 hover:bg-blue-800 transition-all 
+			<a href="/dashboard" class="text-white bg-blue-700 hover:bg-blue-800 transition-all 
 			shadow-xl shadow-blue-800/50 rounded-3xl py-3 px-8 font-bold inline-block mr-4">
 			BẮT ĐẦU NGAY
 		</a>
